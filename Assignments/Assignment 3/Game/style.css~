@@ -1,0 +1,157 @@
+header {
+  margin: 10px;
+  background: green;
+  border-radius: 6px;
+  color: white;
+  font: 14px/24px "Lucida Console";
+  padding: 2px 1px;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+  display:block;
+}
+
+ footer {
+  margin: 10px;
+  background: green;
+  border-radius: 6px;
+  color: white;
+  font: 14px/24px "Lucida Console";
+  padding: 15px 10px;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+  display:block;
+}
+ section {
+  margin: -3px;
+  background: green;
+  border-radius: 60px;
+  margin-top: 0px;
+  font: 14px/24px "Lucida Console";
+  padding: 120px 25px;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+  display:block;
+    width: 300px;
+ 
+    border: 25px solid yellowgreen;
+    ;}
+ article {
+  margin: 10px;
+  background: green;
+  border-radius: 6px;
+  color: white;
+  font: 14px/24px "Lucida Console";
+  padding: 24px 15px;
+   
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+  display:block;
+}
+ aside {
+  margin: 5px;
+  background: green;
+  border-radius: 6px;
+  color: white;
+  font: 14px/24px "Lucida Console";
+  padding: 150px 5px;
+  box-shadow: 10px 2px 5px 1px rgba(0, 0, 0, 0.7);
+  display:block;
+}
+
+
+header, footer {
+  text-align:center;
+  
+}
+
+section {
+  float: left;
+  width: 60%;
+}
+
+aside {
+   border: 20px solid yellowgreen;
+  float: right;
+  width: 25%;
+  height:65px;
+}
+h2{
+  font-family:"Times New Roman",Times;
+  text-align:center;
+  color: aliceblue;  
+  margin-top:-90px;
+  margin-bottom: 30px;
+    margin-right: 25px;
+    margin-left: 70px;
+  padding-right: 50px;
+  font-size:40px;
+   
+}
+h1{
+  text-align: center;
+  font-size:70px;
+  top:8000px;
+  color:pink;
+  }
+section h2{color:aliceblue;
+  font-size:70px;
+  padding-top: 100 px;
+  padding-bottom: -100px;
+  margin-top:-90px;
+  top:10px;
+  margin:-150px;
+     margin-bottom: 15px;
+    margin-right: 25px;
+    margin-left: 45px;
+  font-family:italic,Times,serif;
+
+}
+h3{color:navyblue;
+font-size:50px;}
+#Startbutton {
+	background-color:navy;
+	-moz-border-radius:28px;
+	-webkit-border-radius:800px;
+	border-radius:2px;
+        margin-top:400x;
+        margin-bottom: -10px;
+        margin-right: 550px;
+        margin-left: 10px;
+	border:1px solid #1267;
+	cursor:pointer;
+	color:#1105;
+	font-family:Arial;
+	font-size:15px;
+        text-align:center;
+	padding:1px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px;
+}
+button:hover {	background-color:cornflowerblue;
+}
+button :active {
+  	padding:16px 80px;
+	top:1px;
+}
+#buttons{
+	margin-top:200px;
+}
+
+#size{
+  width:10%;
+  color:red;
+ 
+}
+.Para{
+	font-family: verdana;
+   padding:-50px 10px;
+  height:5px;
+	font-weight: 9px;
+  margin:-110px;
+  margin-top: -70px;
+	color: #330000;
+}
+
+.Answer2,.Answer1,.Answer3,.Answer4{
+	width:90px;
+	height: 60px;
+  margin-left:   10px;
+	border-color:DarkGoldenRod  ;
+  	border-width: 5px;
+}

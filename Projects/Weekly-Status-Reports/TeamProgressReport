@@ -25,4 +25,28 @@ Next Week's goals:
                        Learn about payment gateway.
                        Learn anout online wallet.
                          
+                         
 
+
+Goals in nov first week:
+ -> Should complete most project i.e an android app.
+             Steps:   1. User/Mechanic login - Views     and Database
+                      2. User/Mechanic SignUp- Views     and Database
+                      3. Google Map display
+                      4. User Problemslist
+                      5. Notifying the User Problem's to Mechanic
+                      6. Chat bot to User and Mechanic.
+                      7.Payment.
+                      
+                      
+
+Novomber:
+
+   Week1: 1.User Login completed.
+          2.Mechanic should work.
+          3.Implemented how to find user's location : Used GoogleApiClient.(got latitudes and logitutudes)
+          4.Created Problemslist.
+          5.Working On to connect with location and problems list.
+          6.Figured out a way use Intent but not working for my created problems list.
+  Further goals: Must fix the combining issues. 
+    

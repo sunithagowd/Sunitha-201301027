@@ -1,0 +1,119 @@
+<!DoCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel = "stylesheet" href="style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script SRC=script.js> </script>
+</head>
+<Body >
+<header>
+<P>
+<CENTER><H2>QUIZ Game</H2>
+<P>
+ Use capital letters for this game.</CENTER>
+<BR><header>
+<P>
+<aside>
+<h3 style="font-size:30px;marign-bottom:100px">Score Board</h3> 
+<FORM NAME="scoreform" METHOD=GET>
+<FONT COLOR="palegreen">
+<h2>Your Score:<br> <INPUT TYPE="text" NAME=scorebox value=0 size=10> </h2></FONT><BR></aside>
+<section>
+<CENTER>
+<button type="button"><a href ="2.html">Next</a></button> 
+<a href ="2.html"><button type="button">Next</button></a> 
+<TABLE BORDER=0><TD>
+<P>
+
+<CENTER>
+<tr><td>
+<IMG SRC="img/cake.gif" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit11 size=5>
+<INPUT TYPE="button" VALUE="Submit" onClick="drive11(form)"></td>
+<P>
+<td>
+
+<IMG SRC="img/fish.gif" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit12 size=5>
+<INPUT TYPE="button" VALUE="Submit" onClick="drive12(form)"></td>
+<td>
+<P>
+<IMG SRC="img/ball.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit13 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive13(form)"></td>
+<P>
+<td>
+
+<IMG SRC="img/rose.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit14 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive14(form)"></td>
+<P>
+</td>
+</tr>
+<tr>
+<P>
+<td>
+<IMG SRC="img/umberella.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit21 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive21(form)"></td>
+<P>
+<td>
+<IMG SRC="img/ballon.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit22 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive22(form)"></td>
+<P>
+<td>
+<IMG SRC="img/ice.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit23 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive23(form)"></td>
+<p>
+<td>
+<IMG SRC="img/snake.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit24 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive24(form)"></td>
+<P>
+</tr>
+
+<tr>
+<P>
+<td>
+<IMG SRC="img/flute.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit31 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive31(form)"></td>
+<P>
+<td>
+<IMG SRC="img/axe.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit32 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive32(form)"></td>
+<P>
+<td>
+<IMG SRC="img/love.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit33 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive33(form)"></td>
+<P>
+<td>
+<IMG SRC="img/sun.jpg" WIDTH=75 HEIGHT=75 HSPACE=0 VSPACE=5 BORDER=0 ALIGN=absmiddle>
+<INPUT TYPE=text NAME=mysubmit34 size=5>
+
+<INPUT TYPE="button" VALUE="Submit" onClick="drive34(form)"></td>
+</tr>
+
+
+</section>
+ 
+</Form></Center>
+</Td>
+</Table></Center>
+
+</body>
+</html>

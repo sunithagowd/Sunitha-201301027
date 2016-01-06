@@ -1,0 +1,56 @@
+body{
+
+background-color: yellow;
+}
+
+img {
+width :75 ;
+height:75
+hspace:0;
+vspace:5; 
+border:0;
+align:absmiddle;
+
+}
+header{
+color :  white;
+background: green;
+  border-radius: 60px;
+box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+  display:block;
+}
+
+ section {
+  margin: -3px;
+  background: green;
+  border-radius: 60px;
+  margin-top: 10px;
+  font: 14px/24px "Lucida Console";
+  padding: 30px 45px;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+  display:block;
+  width: 300px;
+ 
+    border: 25px solid yellowgreen;
+    ;}
+ aside {
+  margin: 5px;
+  background: green;
+  border-radius: 6px;
+  color: white;
+  font: 14px/24px "Lucida Console";
+  padding: 150px 5px;
+  box-shadow: 10px 2px 5px 1px rgba(0, 0, 0, 0.7);
+  display:block;
+}
+section {
+  float: left;
+  width: 50%;
+}
+
+aside {
+   border: 20px solid yellowgreen;
+  float: right;
+  width: 25%;
+  height:65px;
+}

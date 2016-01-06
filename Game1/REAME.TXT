@@ -1,0 +1,5 @@
+QUIZ GAME
+
+First.html is the main file.
+
+It has options to choose at first to play then next game can be played by clicking on next
